@@ -3,7 +3,7 @@
 
 ## Objective
 
-Validate, process, and score a move on a given board in the game of Go.
+Validate, process, and score a move on a given board in the game of Go. Written in Python using standard libraries.
 
 
 ## API
