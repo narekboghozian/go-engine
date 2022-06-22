@@ -27,6 +27,7 @@ Validate, process, and score a move on a given board in the game of Go.
 - If successful
     - Dict with following items
         - N x N matrix with new board configuration
+        - Score
 - If not succesful
     - Bool False
 
